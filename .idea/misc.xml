@@ -3,18 +3,24 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Softwares/Android Studio Projects/app/src/main/res/layout/activity_main.xml" value="0.17708333333333334" />
+        <entry key="..\:/Softwares/Android Studio Projects/app/src/main/res/layout/common_toolbar.xml" value="0.23229166666666667" />
+        <entry key="..\:/Softwares/Android Studio Projects/app/src/main/res/layout/fragment_dashboard.xml" value="0.17708333333333334" />
+        <entry key="..\:/Softwares/Android Studio Projects/app/src/main/res/layout/fragment_home.xml" value="0.17708333333333334" />
+        <entry key="..\:/Softwares/Android Studio Projects/app/src/main/res/layout/fragment_notifications.xml" value="0.17708333333333334" />
+        <entry key="..\:/Softwares/Android Studio Projects/app/src/main/res/layout/fragment_splash.xml" value="0.264" />
+        <entry key="..\:/Softwares/Android Studio Projects/app/src/main/res/menu/bottom_nav_menu.xml" value="0.23229166666666667" />
         <entry key="..\:/rozgar/app/src/main/res/drawable/ic_baseline_history_24.xml" value="0.166" />
         <entry key="..\:/rozgar/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.166" />
         <entry key="..\:/rozgar/app/src/main/res/layout/activity_main.xml" value="0.2359375" />
         <entry key="..\:/rozgar/app/src/main/res/layout/common_toolbar.xml" value="0.25" />
         <entry key="..\:/rozgar/app/src/main/res/layout/fragment_dashboard.xml" value="0.25" />
         <entry key="..\:/rozgar/app/src/main/res/layout/fragment_home.xml" value="0.25" />
-        <entry key="..\:/rozgar/app/src/main/res/layout/fragment_notifications.xml" value="0.25" />
         <entry key="..\:/rozgar/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">
