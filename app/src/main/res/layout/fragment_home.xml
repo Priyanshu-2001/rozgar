@@ -7,11 +7,6 @@
     android:background="@android:color/transparent"
     tools:context=".ui.user_history.HomeFragment">
 
-    <include
-        android:id="@+id/_toolbar"
-        layout="@layout/common_toolbar"
-        app:layout_constraintTop_toTopOf="parent" />
-
     <TextView
         android:id="@+id/text_home"
         android:layout_width="match_parent"
