@@ -1,4 +1,4 @@
-package com.worker.hire.ui.notifications
+package com.worker.hire.ui.profile
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData

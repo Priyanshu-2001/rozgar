@@ -1,4 +1,4 @@
-package com.worker.hire.ui.home
+package com.worker.hire.ui.user_history
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
