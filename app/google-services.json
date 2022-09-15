@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "555040832939",
+    "project_id": "rozgar-b2f31",
+    "storage_bucket": "rozgar-b2f31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555040832939:android:9bca772b4d1aa187e2a6ee",
+        "android_client_info": {
+          "package_name": "com.worker.hire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555040832939-1gf23rci0q4npepus41iui55lo34e483.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhKFshAx_LHzowLRHorE91c98_wYR5Ix4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555040832939-1gf23rci0q4npepus41iui55lo34e483.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
